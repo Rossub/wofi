@@ -1,2 +1,2 @@
 # wofi
-My wofi conig with catppuccin color scheme.
+My wofi config with catppuccin color scheme.
